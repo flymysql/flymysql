@@ -77,9 +77,10 @@
 ### 最近文章 [小红鸡]([https://www.siwei.io](https://www.cnblogs.com/gitpull/))
 
 <!-- BLOG-POST-LIST:START -->
-- [2018年: 杂谈随笔]([[https://siwei.io/graph-rag/](https://www.cnblogs.com/gitpull/p/15995658.html)](https://www.cnblogs.com/gitpull/p/15995658.html))
-- [2019年：杂谈随笔]([[https://siwei.io/llm-text-to-nebulagraph-query/](https://www.cnblogs.com/gitpull/p/15995716.html)](https://www.cnblogs.com/gitpull/p/15995716.html))
+- [2018年: 杂谈随笔]([https://www.cnblogs.com/gitpull/p/15995658.html](https://www.cnblogs.com/gitpull/p/15995658.html))
+- [2019年：杂谈随笔]([https://www.cnblogs.com/gitpull/p/15995716.html](https://www.cnblogs.com/gitpull/p/15995716.html))
 <!-- BLOG-POST-LIST:END -->
+</table>
 
 
 
