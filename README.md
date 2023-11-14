@@ -74,11 +74,12 @@
 
 </td><td valign="top" width="50%">
 
-### 最近文章 [小红鸡]([https://www.siwei.io](https://www.cnblogs.com/gitpull/))
+### 最近文章 [小红鸡](https://www.cnblogs.com/gitpull/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2018年: 杂谈随笔]([https://www.cnblogs.com/gitpull/p/15995658.html](https://www.cnblogs.com/gitpull/p/15995658.html))
-- [2019年：杂谈随笔]([https://www.cnblogs.com/gitpull/p/15995716.html](https://www.cnblogs.com/gitpull/p/15995716.html))
+<a href="https://www.cnblogs.com/gitpull/p/15995658.html" target="_blank">2018年: 杂谈随笔</a>
+<br>
+<a href="https://www.cnblogs.com/gitpull/p/15995716.html" target="_blank">2019年: 杂谈随笔</a>
 <!-- BLOG-POST-LIST:END -->
 </table>
 
