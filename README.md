@@ -66,22 +66,10 @@
 </div>
 <br/>
 
-<table><tr><td valign="top" width="50%">
-
 ### GitHub Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=flymysql&show_icons=true&theme=react&count_private=true&hide_border=true" align="center" /></div>
 
-</td><td valign="top" width="50%">
-
-### 最近文章 [小红鸡](https://www.cnblogs.com/gitpull/)
-
-<!-- BLOG-POST-LIST:START -->
-<a href="https://www.cnblogs.com/gitpull/p/15995658.html" target="_blank">2018年: 杂谈随笔</a>
-<br>
-<a href="https://www.cnblogs.com/gitpull/p/15995716.html" target="_blank">2019年: 杂谈随笔</a>
-<!-- BLOG-POST-LIST:END -->
-</table>
 
 
 
