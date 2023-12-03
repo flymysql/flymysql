@@ -3,7 +3,7 @@
 **flymysql/flymysql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+![image](./img/index.png)
 <br/>
 
 - 🔭 I’m currently working on Huawei Technologies Co., Ltd.
