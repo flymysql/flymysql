@@ -72,5 +72,5 @@
 <br>
 <br>
  
-<img width="80%" src="https://count.getloli.com/@Rinai?name=Rinai&theme=miku&padding=8&offset=30&align=top&scale=1&pixelated=0&darkmode=auto" alt="Visitor Count" />
+<img width="80%" src="https://count.getloli.com/@jimmy?name=jimmy&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 
