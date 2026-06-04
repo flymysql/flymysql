@@ -66,5 +66,11 @@
 <br/>
 
 
-
+**本页访问次数/Visitor Count**
+ 
+<br>
+<br>
+<br>
+ 
+<img width="80%" src="https://count.getloli.com/@Rinai?name=Rinai&theme=miku&padding=8&offset=30&align=top&scale=1&pixelated=0&darkmode=auto" alt="Visitor Count" />
 
