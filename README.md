@@ -82,7 +82,7 @@
 ### 🌟 一些好玩的老项目
 
 - 📚 [**WeChat-applets**](https://github.com/flymysql/WeChat-applets) `166★` —— 微信小程序「小鸡背单词」
-- 🐍 [**PeerCache**]([https://github.com/flymysql/Py-Compiler](https://github.com/flymysql/PeerCache)) `3★` —— 一个高性能的适用于sglang的kv cache
+- 🐍 [**PeerCache**](https://github.com/flymysql/PeerCache) `3★` —— 一个高性能的适用于sglang的kv cache
 - 📖 [**flybook**](https://github.com/flymysql/gitblog) `11★` —— 基于github api的带后台的静态网站
 
 </br>
