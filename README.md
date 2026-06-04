@@ -23,13 +23,12 @@
 ### 🧑‍💻 关于我
 
 - 🐔 我是 **兰州小红鸡**，一名做系统软件的程序员。
-- 🔭 这几年主线是 **大模型推理基础设施 / 分布式存储** —— LLM 推理底下"数据怎么存、怎么搬、怎么复用"的那一摊。
-- 🧩 更早在 **图数据库 / 查询引擎**（Nebula）和 **推荐系统** 上待过；再往前是一堆带 emoji 的小项目和微信小程序。
+- 🔭 这几年主线是 **大模型推理基础设施 / 分布式存储** ，更早在 **图数据库 / 查询引擎**（Nebula）和 **推荐系统** 上待过；
 - ✍️ 在 [**gitpull.cn**](https://gitpull.cn) 写工程师手账：技术、生活，和介于两者之间的东西。
 - 📫 找我：**flyphp@outlook.com**
 
 
-### 🛠️ 技术栈
+### 🛠️ 最近常用的一些语言和工具
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -68,7 +67,6 @@
 
 </div>
 
----
 
 ### ✍️ 博客精选 · [gitpull.cn](https://gitpull.cn)
 
@@ -79,24 +77,22 @@
 | [Smallpond 源码走读：DuckDB × 3FS × Ray](https://gitpull.cn/post/20260415/) | 分布式数据处理 |
 | [3FS 的零拷贝之路：USRBIO 是怎么把吞吐推到 6.6 TiB/s 的](https://gitpull.cn/post/20260311/) | 高性能存储 |
 
----
+
 
 ### 🌟 一些好玩的老项目
 
 - 📚 [**WeChat-applets**](https://github.com/flymysql/WeChat-applets) `166★` —— 微信小程序「小鸡背单词」
-- 🐍 [**Py-Compiler**](https://github.com/flymysql/Py-Compiler) `85★` —— 用 Python 手写的一个 C 类语言编译器
-- ✨ [**CET4-Mouse-click-effects**](https://github.com/flymysql/CET4-Mouse-click-effects) `32★` —— 点一下网页就蹦四级单词的鼠标特效
-- 📖 [**flybook**](https://github.com/flymysql/flybook) `11★` —— Node 写的简书风博客框架
-- 📊 [**Graph_dijkstra**](https://github.com/flymysql/Graph_dijkstra) —— Dijkstra 单源最短路径可视化
+- 🐍 [**PeerCache**]([https://github.com/flymysql/Py-Compiler](https://github.com/flymysql/PeerCache)) `3★` —— 一个高性能的适用于sglang的kv cache
+- 📖 [**flybook**](https://github.com/flymysql/gitblog) `11★` —— 基于github api的带后台的静态网站
 
----
-
+</br>
+</br>
 <div align="center">
 
+
+
+ <img width="100%" src="https://count.getloli.com/@jimmy?name=jimmy&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 <i>「来过这里的朋友有多少」</i>
-
- <img width="80%" src="https://count.getloli.com/@jimmy?name=jimmy&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:6EE7F9&height=120&section=footer" />
 
 </div>
