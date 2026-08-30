@@ -62,7 +62,8 @@
 <img src="https://img.shields.io/badge/Top%20Repo-小鸡单词%20167★-f7df1e?style=for-the-badge&logo=wechat&logoColor=black" />
 <img src="https://img.shields.io/badge/Languages-C++%20·%20Python%20·%20Rust%20·%20Go%20·%20JS-6366f1?style=for-the-badge" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flymysql&bg_color=0d1117&color=6366f1&line=a855f7&point=6ee9f7&hide_border=true&area=true" alt="activity" />
+<a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/stars/flymysql?style=for-the-badge&color=6366f1&logo=github&label=Total%20Stars" alt="stars" /></a>
+<a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/last-commit/flymysql/flymysql?style=for-the-badge&color=6ee9f7&logo=github&label=Last%20Updated" alt="last-commit" /></a>
 
 </div>
 
@@ -83,7 +84,6 @@
 **🕰️ 早期作品（2018–2019）**
 
 - 📚 [**WeChat-applets**](https://github.com/flymysql/WeChat-applets) `2018 · 167★` —— 微信小程序「小鸡背单词」
-- ✨ [**CET4-Mouse-click-effects**](https://github.com/flymysql/CET4-Mouse-click-effects) `2018 · 34★` —— 网页鼠标点击特效：单击随机弹出四级单词
 - 🐍 [**Py-Compiler**](https://github.com/flymysql/Py-Compiler) `2019 · 84★` —— 一个用 Python 写的编译器
 
 **🚀 近期 · 进行中（2026）**
