@@ -80,13 +80,18 @@
 
 ### 🌟 主要项目
 
-- 🔌 [**dsh-remote**](https://github.com/flymysql/dsh-remote) `46★` —— DeepSeek Harness 远程工作区助手：多机 SSH、远程文件树、SFTP 镜像同步、端口转发（npm: `dsh-remote`）
-- 🐍 [**Py-Compiler**](https://github.com/flymysql/Py-Compiler) `84★` —— 一个用 Python 写的编译器
-- 📚 [**WeChat-applets**](https://github.com/flymysql/WeChat-applets) `167★` —— 微信小程序「小鸡背单词」
-- ✨ [**CET4-Mouse-click-effects**](https://github.com/flymysql/CET4-Mouse-click-effects) `34★` —— 网页鼠标点击特效：单击随机弹出四级单词
-- 🐍 [**PeerCache**](https://github.com/flymysql/PeerCache) `4★` —— 高性能的适用于 SGLang 的去中心化 KV Cache（RDMA 零拷贝）
-- 🧠 [**dsh-memory**](https://github.com/flymysql/dsh-memory) `4★` —— DSH 跨会话记忆库（npm: `dsh-memory-vault`）
-- 📖 [**flybook**](https://github.com/flymysql/gitblog) `10★` —— 基于 GitHub API 的带后台静态博客
+**🕰️ 早期作品（2018–2019）**
+
+- 📚 [**WeChat-applets**](https://github.com/flymysql/WeChat-applets) `2018 · 167★` —— 微信小程序「小鸡背单词」
+- ✨ [**CET4-Mouse-click-effects**](https://github.com/flymysql/CET4-Mouse-click-effects) `2018 · 34★` —— 网页鼠标点击特效：单击随机弹出四级单词
+- 🐍 [**Py-Compiler**](https://github.com/flymysql/Py-Compiler) `2019 · 84★` —— 一个用 Python 写的编译器
+
+**🚀 近期 · 进行中（2026）**
+
+- 🐍 [**PeerCache**](https://github.com/flymysql/PeerCache) `2026 · 4★` —— 高性能的适用于 SGLang 的去中心化 KV Cache（RDMA 零拷贝）
+- 📖 [**flybook**](https://github.com/flymysql/gitblog) `2026 · 10★` —— 基于 GitHub API 的带后台静态博客
+- 🔌 [**dsh-remote**](https://github.com/flymysql/dsh-remote) `2026 · 46★` —— DeepSeek Harness 远程工作区助手：多机 SSH、远程文件树、SFTP 镜像同步、端口转发（npm: `dsh-remote`）
+- 🧠 [**dsh-memory**](https://github.com/flymysql/dsh-memory) `2026 · 4★` —— DSH 跨会话记忆库（npm: `dsh-memory-vault`）
 
 </br>
 </br>
