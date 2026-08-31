@@ -11,7 +11,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=flymysql&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
   <a href="https://github.com/flymysql?tab=followers"><img src="https://img.shields.io/github/followers/flymysql?label=Followers&style=flat-square&color=a855f7&logo=github" alt="followers" /></a>
-  <a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/repos/flymysql?label=Public%20Repos&style=flat-square&color=6ee9f7&logo=github" alt="repos" /></a>
+  <a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fflymysql&query=public_repos&label=Public%20Repos&style=flat-square&color=6ee9f7&logo=github" alt="repos" /></a>
   <a href="https://gitpull.cn"><img src="https://img.shields.io/badge/Blog-gitpull.cn-22c55e?style=flat-square&logo=hugo&logoColor=white" alt="blog" /></a>
   <a href="mailto:flyphp@outlook.com"><img src="https://img.shields.io/badge/Email-flyphp%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
@@ -33,7 +33,7 @@
 <div align="center">
 
 <a href="https://github.com/flymysql?tab=repositories">
-  <img src="https://img.shields.io/github/repos/flymysql?label=Public%20Repos&style=for-the-badge&color=6ee9f7&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fflymysql&query=public_repos&label=Public%20Repos&style=for-the-badge&color=6ee9f7&logo=github&logoColor=black" />
 </a>
 <a href="https://github.com/flymysql?tab=followers">
   <img src="https://img.shields.io/github/followers/flymysql?style=for-the-badge&color=a855f7&logo=github&label=Followers" />
@@ -48,28 +48,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=flymysql&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flymysql&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-
-### 🛠️ 最近常用的一些语言和工具
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDMA%20%2F%20RoCE-EE0000?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SGLang-6366F1?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 
