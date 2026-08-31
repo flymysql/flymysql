@@ -41,6 +41,28 @@
 <img width="55%" src="https://github-readme-stats-fast.vercel.app/api?username=flymysql&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
 
+
+### 🌍 开源贡献
+
+**上游代码贡献（PR 已合并）**
+
+- 🅽 [**NebulaGraph**](https://github.com/vesoft-inc/nebula)（⭐12K）—— 分布式图数据库内核性能优化
+  - [#5762](https://github.com/vesoft-inc/nebula/pull/5762) Optimize meta session manager & remove session lock（+176/-150）
+  - [#5754](https://github.com/vesoft-inc/nebula/pull/5754) Reduce write-lock blocking time when deleting space（+15/-8）
+
+**活跃 issue / 讨论**
+
+- ⚡ [**SGLang**](https://github.com/sgl-project/sglang)（⭐33K）—— LLM 推理框架
+  - [#31445](https://github.com/sgl-project/sglang/issues/31445) UnifiedRadixCache extra-pool prefetch 生命周期缺失导致 segfault
+  - [#31296](https://github.com/sgl-project/sglang/pull/31296) Fix host_indices use-after-free segfault（修复 PR，已 review）
+- 🅽 NebulaGraph
+  - [#5767](https://github.com/vesoft-inc/nebula/issues/5767) 讨论增加常用数据类型 · [#5750](https://github.com/vesoft-inc/nebula/issues/5750) graphd coredump（nebula-java 超时）
+  - [#5483](https://github.com/vesoft-inc/nebula/issues/5483) 同名属性 GO yield 结果不准 · [#5456](https://github.com/vesoft-inc/nebula/issues/5456) storaged 启动速度 · [#5347](https://github.com/vesoft-inc/nebula/issues/5347) snapshot 死循环
+- 🦆 [**DeepSeek Smallpond**](https://github.com/deepseek-ai/smallpond) —— 分布式数据处理
+  - [#24](https://github.com/deepseek-ai/smallpond/issues/24) Ray 多机集群调度错误 · [#7](https://github.com/deepseek-ai/smallpond/issues/7) 计算节点调度机制探讨
+
+**DSH 插件生态** —— 维护 dsh-remote / dsh-memory 等插件，并收录进多个 awesome 列表
+
 ### ✍️ 博客精选 · [gitpull.cn](https://gitpull.cn)
 
 | 📝 文章 | 主题 |
