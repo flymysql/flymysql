@@ -10,8 +10,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=flymysql&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
-  <a href="https://github.com/flymysql?tab=followers"><img src="https://img.shields.io/github/followers/flymysql?label=Followers&style=flat-square&color=a855f7&logo=github" alt="followers" /></a>
-  <a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fflymysql&query=public_repos&label=Public%20Repos&style=flat-square&color=6ee9f7&logo=github" alt="repos" /></a>
   <a href="https://gitpull.cn"><img src="https://img.shields.io/badge/Blog-gitpull.cn-22c55e?style=flat-square&logo=hugo&logoColor=white" alt="blog" /></a>
   <a href="mailto:flyphp@outlook.com"><img src="https://img.shields.io/badge/Email-flyphp%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
@@ -23,10 +21,8 @@
 
 ### 🧑‍💻 关于我
 
-- 🐔 我是 **兰州小红鸡**，一名做系统软件的程序员。
-- 🔭 这几年主线是 **大模型推理基础设施 / 分布式存储** ，更早在 **图数据库 / 查询引擎**（Nebula）和 **推荐系统** 上待过；
-- ✍️ 在 [**gitpull.cn**](https://gitpull.cn) 写工程师手账：技术、生活，和介于两者之间的东西。
-- 📫 找我：**flyphp@outlook.com**
+- 🐔 **兰州小红鸡**，系统软件工程师 @ Tencent，主线 **LLM 推理基础设施 / 分布式存储**，早年做过 **图数据库（Nebula）/ 查询引擎 / 推荐系统**
+- ✍️ 在 [**gitpull.cn**](https://gitpull.cn) 写工程师手账
 
 ### 📊 GitHub 数据
 
@@ -55,9 +51,7 @@
 - ⚡ [**SGLang**](https://github.com/sgl-project/sglang)（⭐33K）—— LLM 推理框架
   - [#31445](https://github.com/sgl-project/sglang/issues/31445) UnifiedRadixCache extra-pool prefetch 生命周期缺失导致 segfault
   - [#31296](https://github.com/sgl-project/sglang/pull/31296) Fix host_indices use-after-free segfault（修复 PR，已 review）
-- 🅽 NebulaGraph
-  - [#5767](https://github.com/vesoft-inc/nebula/issues/5767) 讨论增加常用数据类型 · [#5750](https://github.com/vesoft-inc/nebula/issues/5750) graphd coredump（nebula-java 超时）
-  - [#5483](https://github.com/vesoft-inc/nebula/issues/5483) 同名属性 GO yield 结果不准 · [#5456](https://github.com/vesoft-inc/nebula/issues/5456) storaged 启动速度 · [#5347](https://github.com/vesoft-inc/nebula/issues/5347) snapshot 死循环
+- 🅽 NebulaGraph：[#5767](https://github.com/vesoft-inc/nebula/issues/5767) 类型系统 · [#5750](https://github.com/vesoft-inc/nebula/issues/5750) coredump · [#5483](https://github.com/vesoft-inc/nebula/issues/5483) GO yield · [#5456](https://github.com/vesoft-inc/nebula/issues/5456) storaged 启动 · [#5347](https://github.com/vesoft-inc/nebula/issues/5347) snapshot 循环
 - 🦆 [**DeepSeek Smallpond**](https://github.com/deepseek-ai/smallpond) —— 分布式数据处理
   - [#24](https://github.com/deepseek-ai/smallpond/issues/24) Ray 多机集群调度错误 · [#7](https://github.com/deepseek-ai/smallpond/issues/7) 计算节点调度机制探讨
 
@@ -67,11 +61,10 @@
 
 | 📝 文章 | 主题 |
 | --- | --- |
-| [dsh-remote——给 DeepSeek Harness 的多机远程工作区](https://gitpull.cn/post/20260814/) | AI Agent 工具 |
 | [用 AI 做好软件项目：上下文工程实践指南](https://gitpull.cn/post/20260615/) | AI 工程实践 |
-| [QQ 经典农场辅助：挂机收菜、种菜、偷菜的一键工具](https://gitpull.cn/post/20260617/) | 桌面自动化 |
 | [PeerCache：一个去中心化的 RDMA 零拷贝 KV 缓存后端](https://gitpull.cn/post/20260601/) | AI 基础设施 |
 | [大模型推理的 PD 分离：原理、动机与 Mooncake 的实现](https://gitpull.cn/post/20260529/) | LLM 推理 |
+| [CPTI：手机上就能玩的恋爱人格小测验](https://gitpull.cn/post/20260514/) | 趣味开发 |
 
 
 
