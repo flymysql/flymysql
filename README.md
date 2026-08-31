@@ -30,35 +30,26 @@
 
 ### 📊 GitHub 数据
 
-<div align="center">
-
-<a href="https://github.com/flymysql?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fflymysql&query=public_repos&label=Public%20Repos&style=for-the-badge&color=6ee9f7&logo=github&logoColor=black" />
-</a>
-<a href="https://github.com/flymysql?tab=followers">
-  <img src="https://img.shields.io/github/followers/flymysql?style=for-the-badge&color=a855f7&logo=github&label=Followers" />
-</a>
-<img src="https://img.shields.io/badge/Top%20Repo-小鸡单词%20167★-f7df1e?style=for-the-badge&logo=wechat&logoColor=black" />
-<img src="https://img.shields.io/badge/Languages-C++%20·%20Python%20·%20Rust%20·%20Go%20·%20JS-6366f1?style=for-the-badge" />
-
-<a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/stars/flymysql?style=for-the-badge&color=6366f1&logo=github&label=Total%20Stars" alt="stars" /></a>
-<a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/last-commit/flymysql/flymysql?style=for-the-badge&color=6ee9f7&logo=github&label=Last%20Updated" alt="last-commit" /></a>
-
-</div>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=flymysql&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<p>
+  <a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/followers/flymysql?style=flat-square&color=a855f7&logo=github&label=Followers" /></a>
+  <a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fflymysql&query=public_repos&label=Public%20Repos&style=flat-square&color=6ee9f7&logo=github" /></a>
+  <a href="https://github.com/flymysql?tab=repositories"><img src="https://img.shields.io/github/stars/flymysql?style=flat-square&color=6366f1&logo=github&label=Total%20Stars" /></a>
+  <img src="https://img.shields.io/badge/Top%20Repo-小鸡单词%20167★-f7df1e?style=flat-square&logo=wechat&logoColor=black" />
+  <img src="https://img.shields.io/github/last-commit/flymysql/flymysql?style=flat-square&color=6ee9f7&logo=github&label=Last%20Updated" />
 </p>
+
+<img width="55%" src="https://github-readme-stats-fast.vercel.app/api?username=flymysql&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
 
 ### ✍️ 博客精选 · [gitpull.cn](https://gitpull.cn)
 
 | 📝 文章 | 主题 |
 | --- | --- |
+| [dsh-remote——给 DeepSeek Harness 的多机远程工作区](https://gitpull.cn/post/20260814/) | AI Agent 工具 |
+| [用 AI 做好软件项目：上下文工程实践指南](https://gitpull.cn/post/20260615/) | AI 工程实践 |
+| [QQ 经典农场辅助：挂机收菜、种菜、偷菜的一键工具](https://gitpull.cn/post/20260617/) | 桌面自动化 |
 | [PeerCache：一个去中心化的 RDMA 零拷贝 KV 缓存后端](https://gitpull.cn/post/20260601/) | AI 基础设施 |
 | [大模型推理的 PD 分离：原理、动机与 Mooncake 的实现](https://gitpull.cn/post/20260529/) | LLM 推理 |
-| [Smallpond 源码走读：DuckDB × 3FS × Ray](https://gitpull.cn/post/20260415/) | 分布式数据处理 |
-| [3FS 的零拷贝之路：USRBIO 是怎么把吞吐推到 6.6 TiB/s 的](https://gitpull.cn/post/20260311/) | 高性能存储 |
 
 
 
