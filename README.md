@@ -8,6 +8,8 @@
 
 [**Blog**](https://gitpull.cn) · [**RSS**](https://gitpull.cn/rss.xml) · [flyphp@outlook.com](mailto:flyphp@outlook.com)
 
+<img src="https://komarev.com/ghpvc/?username=flymysql&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
+
 </div>
 
 ---
@@ -60,3 +62,12 @@
 - 🐍 [**PeerCache**](https://github.com/flymysql/PeerCache) `Apache-2.0` —— 适用于 SGLang HiCache 的去中心化 L3 KV Cache 后端（RDMA 零拷贝，无中心 master；单卡达 `ib_read_bw` 94%，8 卡聚合 413 GB/s）
 - 📖 [**flybook**](https://github.com/flymysql/flybook) —— Node 搭建的简书风格博客框架，简约可定制
 - 🧠 [**dsh-memory**](https://github.com/flymysql/dsh-memory) —— DSH 跨会话记忆库（npm: `dsh-memory-vault`）
+
+</br>
+</br>
+<div align="center">
+
+ <img width="100%" src="https://count.getloli.com/@jimmy?name=jimmy&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
+<i>「来过这里的朋友有多少」</i>
+
+</div>
